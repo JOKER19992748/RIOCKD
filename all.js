@@ -88,7 +88,7 @@ const main = async () => {
         await fft();
         break;
 
-	   case "[11] Follow Followers Target No Comment & Like":
+	   case "[11] MRNGIKUTI TANPA SUKA DAN KOMEN":
         const fftold = require('./fftold.js');
         await fftold();
         break;
