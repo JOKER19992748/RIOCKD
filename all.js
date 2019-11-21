@@ -88,7 +88,7 @@ const main = async () => {
         await fft();
         break;
 
-	   case "[11] Follow Followers Target No Comment & Like":
+	   case "[11] MRNGIKUTI TANPA SUKA DAN KOMEN":
         const fftold = require('./fftold.js');
         await fftold();
         break;
@@ -134,9 +134,6 @@ console.log(chalk`
 |___| |_____\___/  \_/  |_____|  \___/
 
 
-  ╦┌┐┌┌─┐┌┬┐┌─┐┌─┐┬─┐┌─┐┌┬┐
-  ║│││└─┐ │ ├─┤│ ┬├┬┘├─┤│││
-  ╩┘└┘└─┘ ┴ ┴ ┴└─┘┴└─┴ ┴┴ ┴
   ╔╦╗┌─┐┌─┐┬  ┌─┐    © 2019-2020
    ║ │ ││ ││  └─┐   RIOO
    ╩ └─┘└─┘┴─┘└─┘   -------       
