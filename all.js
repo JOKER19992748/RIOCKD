@@ -24,7 +24,7 @@ const questionTools = [
         "[8] MENGIKUTI VIA Hastag",
         "[9] MENGIKUTI VIA LOKASI",
         "[10] MENGIKUTI TANPA LIKE",
-	"[11] MRNGIKUTI TANPA SUKA DAN KOMEN",
+	"[11] MENGIKUTI TANPA SUKA DAN KOMEN",
         "[12] LIKE POST NOT WORK",
 	"[12] BOM KOMEN Target",
         "\n"
