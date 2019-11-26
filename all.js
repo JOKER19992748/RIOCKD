@@ -19,7 +19,7 @@ const questionTools = [
         "[3] HAPUS SEMUA MEDIA",
         "[4] BATAL MENGIKUTI SEMUA MENGIKUTI",
         "[5] BATAL MENGIKUTI SEMUA TIDAK MENGIKUTI BALIK",
-        "[6] MENGIKUTI DENGAN TARGET ",
+        "[6] MENGIKUTI DENGAN TARGET",
         "[7] MENGIKUTI VIA ID ",
         "[8] MENGIKUTI VIA Hastag",
         "[9] MENGIKUTI VIA LOKASI",
@@ -88,7 +88,7 @@ const main = async () => {
         await fft();
         break;
 
-	   case "[11] MRNGIKUTI TANPA SUKA DAN KOMEN":
+	   case "[11] MENGIKUTI TANPA SUKA DAN KOMEN":
         const fftold = require('./fftold.js');
         await fftold();
         break;
@@ -127,11 +127,11 @@ console.log(chalk`
       ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
         "*$bd$$$$      '*$$$$$$$$$$$o+#"
              """"          """""""
- ___   _     _____     _______   _   _
-|_ _| | |   / _ \ \   / / ____| | | | |
- | |  | |  | | | \ \ / /|  _|   | | | |
- | |  | |__| |_| |\ V / | |___  | |_| |
-|___| |_____\___/  \_/  |_____|  \___/
+ ___   _     _____     _______   
+|_ _| | |   / _ \ \   / / ____|
+ | |  | |  | | | \ \ / /|  _|  
+ | |  | |__| |_| |\ V / | |___  
+|___| |_____\___/  \_/  |_____|  
 
 
   ╔╦╗┌─┐┌─┐┬  ┌─┐    © 2019-2020
