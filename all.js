@@ -63,7 +63,7 @@ const main = async () => {
         await unfollnotfollback();
         break;
 
-      case "[6] MENGIKUTI DENGAN TARGET ":
+      case "[6] MENGIKUTI DENGAN TARGET":
         const fftauto = require('./fftauto.js');
         await fftauto();
         break;
